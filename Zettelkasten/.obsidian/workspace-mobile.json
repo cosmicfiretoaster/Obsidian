@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "2b4cbfe9f33146e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c193663d380cdc4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "896de0c92741024a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Essays/Stat Quest ; Calculating the mean, variance, and standard deviation..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96ba9238eb89ac4b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a9da02f5cf72292a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f788fb34dfd2002f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#adult",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0aa8f93ae2f1dfb6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5c5b0131ce4c3a9a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "411478fe40b5d4b9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a3e51eb8b0c86379",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "6 - Essays/Stat Quest ; Calculating the mean, variance, and standard deviation..md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a87b9712d0e1212d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "6 - Essays/Stat Quest ; Calculating the mean, variance, and standard deviation..md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7674a4ad8905f2e1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "6 - Essays/Stat Quest ; Calculating the mean, variance, and standard deviation..md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "896de0c92741024a",
+  "lastOpenFiles": [
+    "4 - Indexes/Population Variance.md",
+    "4 - Indexes/Standard Deviation.md",
+    "4 - Indexes/Stat Quest.md",
+    "6 - Essays/Stat Quest ; Calculating the mean, variance, and standard deviation..md",
+    "5 - Templates/Note.md",
+    "5 - Templates/Templates.md",
+    "4 - Indexes/Statistics.md",
+    "References",
+    "References/30xiitg-eng_.pdf",
+    "30xiitg-eng_ 1.pdf",
+    "4 - Indexes/Population Mean.md",
+    "7 - Notes/WIP",
+    "7 - Notes",
+    "1 - Word Vomit/Thoughts",
+    "6 - Essays",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags"
+  ]
+}

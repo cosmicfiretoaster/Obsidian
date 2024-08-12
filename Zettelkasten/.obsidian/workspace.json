@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "7cdfefd008b18212",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dc2b92cbfe2058d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d84f2ab7b8857799",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80ea48fd64daa973",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf725a2763735346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80220c688beb4ffc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4630cdedc6285142",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93faa7808c54738c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f5e0cf56e9bc902",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca6b7821a243b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "725d16846018b37b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2caad1844fd44fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e374326e007f50eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82e320191d2536e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "d84f2ab7b8857799",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "6 - Essays/Stat Quest ; Calculating the mean, variance, and standard deviation..md",
+    "7 - Notes/What is a Mathematical Model.md",
+    "7 - Notes/Sampling From a Distribution.md",
+    "WIP/Hypothesis Testing & the Null Hypothesis.md",
+    "4 - Indexes/Math.md",
+    "4 - Indexes/R.md",
+    "4 - Indexes/Linear Regression.md",
+    "7 - Notes/WIP/Untitled.md",
+    "4 - Indexes/Python.md",
+    "4 - Indexes/Programming.md"
+  ]
+}
